@@ -1,0 +1,2 @@
+SEARCH_KEYWORD = "Programador"
+NUM_RESULTS = 7

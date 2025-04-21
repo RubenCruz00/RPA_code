@@ -1,0 +1,17 @@
+2025-04-19 16:35:56,742 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 16:35:56.
+2025-04-19 16:40:42,815 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 16:40:41.
+2025-04-19 16:44:57,057 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 16:44:56.
+2025-04-19 16:52:35,518 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 16:52:33.
+2025-04-19 17:04:19,623 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 17:04:16.
+2025-04-19 17:11:45,472 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 17:11:42.
+2025-04-19 18:04:52,072 - ERROR - Error en la ejecución:
+Traceback (most recent call last):
+  File "/Users/rubencruzgonzalez/Documents/Universidad/MASTER/SEGUNDO/Informatica_Industrial_Avanzada/RPA/RPA_code/project/jobFinder.py", line 28, in main
+    oferta["Fecha"] = timestamp
+NameError: name 'timestamp' is not defined
+
+2025-04-19 18:05:43,640 - INFO - 5 ofertas encontradas y guardadas en 2025-04-19 18:05:40.
+2025-04-19 18:07:16,895 - INFO - No se encontraron ofertas.
+2025-04-19 18:08:14,994 - INFO - 7 ofertas encontradas y guardadas en 2025-04-19 18:08:12.
+2025-04-21 13:27:48,589 - INFO - 7 ofertas encontradas y guardadas en 2025-04-21 13:27:45.
+2025-04-21 13:28:01,208 - INFO - 7 ofertas encontradas y guardadas en 2025-04-21 13:27:57.
